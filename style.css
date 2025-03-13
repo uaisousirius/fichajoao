@@ -3,7 +3,7 @@
 body{
 
     font-family: "MedievalSharp", cursive;
-    background-image: url("imagens/papelvelho.jpeg");
+    background-image: url("papelvelho.jpeg");
     background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Não repete a imagem */
