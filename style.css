@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+
+    font-family: "MedievalSharp", cursive;
+    background-image: url("imagens/papelvelho.jpeg");
+    background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
+
+}
+
+header{
+
+background-color: #8B4513;
+padding: 2rem;
+text-align: center;
+
+}
+
+section1{
+
+    text-align: center;
+
+}
+
